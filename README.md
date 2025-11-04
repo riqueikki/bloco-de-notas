@@ -28,7 +28,7 @@ O conteúdo é armazenado automaticamente no **LocalStorage**, garantindo que su
 ### 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/bloco-de-notas.git](https://riqueikki.github.io/bloco-de-notas/
+   git clone [https://riqueikki.github.io/bloco-de-notas/]
 
 
 
